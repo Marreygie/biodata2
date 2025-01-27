@@ -1,0 +1,55 @@
+
+.mycontainer1{
+  background-color:#3855;
+  
+}
+
+img{
+   border-radius:50%;
+   border:1px solid black;
+   float:left;
+   
+}
+
+p{ 
+ margin-top:-7%;
+ Text-align:center;
+
+}
+
+h3{
+  Text-align:center;
+}
+
+.mycontainer2{
+  background-color:#3855;
+  
+}
+
+.mycontainer3{
+  background-color:#3855;
+}
+
+.mycontainer4{
+  background-color:#3855;
+  margin-top:-5%;
+}
+
+.mycontainer5{
+  background-color:#3855;
+  
+}
+
+.mycontainer6{
+  background-color:#3855;
+  
+}
+
+.mycontainer7{
+  background-color:#3855;
+  
+}
+
+th,td{
+  margin-top:-7%;
+}
